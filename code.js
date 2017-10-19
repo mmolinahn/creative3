@@ -36,6 +36,7 @@ firstApp.controller('controlOne', function($scope) {
 	   	 $scope.show5 = false;		
 		 $scope.show = false;
          $scope.show3 = true;
+         $scope.lastButton = true;
 		
 	}
 
